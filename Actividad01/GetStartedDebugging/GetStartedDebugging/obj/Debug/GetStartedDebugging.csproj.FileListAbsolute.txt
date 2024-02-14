@@ -1,0 +1,12 @@
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\GetStartedDebugging\GetStartedDebugging\bin\Debug\GetStartedDebugging.exe
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\GetStartedDebugging\GetStartedDebugging\bin\Debug\GetStartedDebugging.pdb
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\GetStartedDebugging\GetStartedDebugging\obj\Debug\GetStartedDebugging.csproj.AssemblyReference.cache
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\GetStartedDebugging\GetStartedDebugging\obj\Debug\GetStartedDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\GetStartedDebugging\GetStartedDebugging\obj\Debug\GetStartedDebugging.exe
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\GetStartedDebugging\GetStartedDebugging\obj\Debug\GetStartedDebugging.pdb
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\Actividad01\GetStartedDebugging\GetStartedDebugging\bin\Debug\GetStartedDebugging.exe
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\Actividad01\GetStartedDebugging\GetStartedDebugging\bin\Debug\GetStartedDebugging.pdb
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\Actividad01\GetStartedDebugging\GetStartedDebugging\obj\Debug\GetStartedDebugging.csproj.AssemblyReference.cache
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\Actividad01\GetStartedDebugging\GetStartedDebugging\obj\Debug\GetStartedDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\Actividad01\GetStartedDebugging\GetStartedDebugging\obj\Debug\GetStartedDebugging.exe
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\Actividad01\GetStartedDebugging\GetStartedDebugging\obj\Debug\GetStartedDebugging.pdb

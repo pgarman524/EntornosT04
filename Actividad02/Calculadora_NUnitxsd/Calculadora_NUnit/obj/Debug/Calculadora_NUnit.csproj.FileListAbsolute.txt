@@ -1,0 +1,7 @@
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\Actividad02\Calculadora_NUnit\Calculadora_NUnit\obj\Debug\Calculadora_NUnit.csproj.AssemblyReference.cache
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\Actividad02\Calculadora_NUnit\Calculadora_NUnit\obj\Debug\Calculadora_NUnit.csproj.CoreCompileInputs.cache
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\Actividad02\Calculadora_NUnit\Calculadora_NUnit\bin\Debug\Calculadora_NUnit.exe.config
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\Actividad02\Calculadora_NUnit\Calculadora_NUnit\bin\Debug\Calculadora_NUnit.exe
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\Actividad02\Calculadora_NUnit\Calculadora_NUnit\bin\Debug\Calculadora_NUnit.pdb
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\Actividad02\Calculadora_NUnit\Calculadora_NUnit\obj\Debug\Calculadora_NUnit.exe
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\Actividad02\Calculadora_NUnit\Calculadora_NUnit\obj\Debug\Calculadora_NUnit.pdb

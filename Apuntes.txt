@@ -1,0 +1,24 @@
+1. CLR -> Componente esencial  de -NEt (Permite la creación de código)
+2. Lenguajes de Programación (C#)
+3. Bases de clases (Bibliotecas de clases - BCL)
+4. ASP.NET = Framework (Entorno de desarrollo) -> elemento que ayuda a unificar lasbibliotecas predefinidas.
+5. Encapsulamiento de cçodigo y Herencia.
+6. ASP.NetCore = Multiplataforma ASP.NET (G.Xamarin)
+7. Azure = CC.Net
+8. VisualStudio
+9. .NETCore y .NETv5 o v6
+
+
+Visual Studio Test Explorer = Conjunto de herramientas  visuales.
+
+Atributos de pruebas (Test method) (Test Class) Para hacer pruebass unitarias no usamos nuestro código sino linkeamos otro proyecto. Sirve también para depuración de código.
+
+.NET admite varios frameworks -> MSTests, NUnit, xUnit
+
+Clase asser para comparar en framework.
+
+
+
+
+
+pag258

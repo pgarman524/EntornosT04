@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Pgarman524\\Desktop\\Entornos de desarrollo\\T4\\Actividad02\\Calculadora_NUnit\\TestCalculadora\\TestCalculadora.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pgarman524\\Desktop\\Entornos de desarrollo\\T4\\Actividad02\\Calculadora_NUnit\\Calculadora_NUnit\\Calculadora_NUnit.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pgarman524\\Desktop\\Entornos de desarrollo\\T4\\Actividad02\\Calculadora_NUnit\\Calculadora_NUnit\\Calculadora_NUnit.csproj",
+        "projectName": "Calculadora_NUnit",
+        "projectPath": "C:\\Users\\Pgarman524\\Desktop\\Entornos de desarrollo\\T4\\Actividad02\\Calculadora_NUnit\\Calculadora_NUnit\\Calculadora_NUnit.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Pgarman524\\Desktop\\Entornos de desarrollo\\T4\\Actividad02\\Calculadora_NUnit\\TestCalculadora\\TestCalculadora.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pgarman524\\Desktop\\Entornos de desarrollo\\T4\\Actividad02\\Calculadora_NUnit\\TestCalculadora\\TestCalculadora.csproj",
+        "projectName": "TestCalculadora",
+        "projectPath": "C:\\Users\\Pgarman524\\Desktop\\Entornos de desarrollo\\T4\\Actividad02\\Calculadora_NUnit\\TestCalculadora\\TestCalculadora.csproj",
+        "packagesPath": "C:\\Users\\Pgarman524\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pgarman524\\Desktop\\Entornos de desarrollo\\T4\\Actividad02\\Calculadora_NUnit\\TestCalculadora\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pgarman524\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net47"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net47": {
+            "targetAlias": "net47",
+            "projectReferences": {
+              "C:\\Users\\Pgarman524\\Desktop\\Entornos de desarrollo\\T4\\Actividad02\\Calculadora_NUnit\\Calculadora_NUnit\\Calculadora_NUnit.csproj": {
+                "projectPath": "C:\\Users\\Pgarman524\\Desktop\\Entornos de desarrollo\\T4\\Actividad02\\Calculadora_NUnit\\Calculadora_NUnit\\Calculadora_NUnit.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net47": {
+          "targetAlias": "net47",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

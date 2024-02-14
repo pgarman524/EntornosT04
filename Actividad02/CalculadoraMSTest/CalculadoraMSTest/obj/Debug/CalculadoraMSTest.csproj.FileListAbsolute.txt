@@ -1,0 +1,7 @@
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\Actividad02\CalculadoraMSTest\CalculadoraMSTest\bin\Debug\CalculadoraMSTest.exe.config
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\Actividad02\CalculadoraMSTest\CalculadoraMSTest\bin\Debug\CalculadoraMSTest.exe
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\Actividad02\CalculadoraMSTest\CalculadoraMSTest\bin\Debug\CalculadoraMSTest.pdb
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\Actividad02\CalculadoraMSTest\CalculadoraMSTest\obj\Debug\CalculadoraMSTest.csproj.AssemblyReference.cache
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\Actividad02\CalculadoraMSTest\CalculadoraMSTest\obj\Debug\CalculadoraMSTest.csproj.CoreCompileInputs.cache
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\Actividad02\CalculadoraMSTest\CalculadoraMSTest\obj\Debug\CalculadoraMSTest.exe
+C:\Users\Pgarman524\Desktop\Entornos de desarrollo\T4\Actividad02\CalculadoraMSTest\CalculadoraMSTest\obj\Debug\CalculadoraMSTest.pdb
